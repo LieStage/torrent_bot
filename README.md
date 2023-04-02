@@ -24,7 +24,15 @@ Start chat with this bot on [telegram](https://telegram.me/the_torrent_Bot)
 
 #### You can fork the repo and deploy it on Heroku :)  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/LieStage/torrent_bot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
 
 OR
 
