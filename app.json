@@ -15,7 +15,7 @@
             "required":"True"
         }
     },
-"addons": [],
+    "addons": [],
     "buildpacks": [{
         "url": "heroku/python"
     }],
