@@ -2,3 +2,4 @@ python-telegram-bot==12.8
 python-telegram-bot-pagination
 requests
 tpblite
+aiohttp
