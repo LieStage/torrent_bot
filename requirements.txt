@@ -3,3 +3,4 @@ python-telegram-bot-pagination
 requests
 tpblite
 aiohttp
+flask==2.0.1
